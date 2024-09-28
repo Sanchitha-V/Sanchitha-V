@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanchitha-V
 - 👀 I’m interested in ... Solving puzzle, reading novels,chess and watching documentries.
-- 🌱 I’m currently learning ... c++
-- 💞️ I’m looking to collaborate on ...Projects related towards Data Science or Bioinformatics
+- 🌱 I’m currently learning ... c++, java 
+- 💞️ I’m looking to collaborate on ...Projects related towards Data Science , Web Dev or AI/ML
 - 📫 How to reach me ...
 - 😄 Pronouns: ...she/her
 - ⚡ Fun fact: ...
